@@ -18,8 +18,8 @@ The goal of the project is to simulate a real-world Business Intelligence scenar
 
   ## 📈 Dashboard Preview
 
-![Dashboard Screenshot](Screenshot 2026-04-22 171034.png
-)
+
+
 
 ## 🔍 Key Insights
 - Revenue shows strong seasonal trends, peaking during mid-year periods  
