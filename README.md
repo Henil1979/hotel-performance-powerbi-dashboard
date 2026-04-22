@@ -19,7 +19,7 @@ The goal of the project is to simulate a real-world Business Intelligence scenar
   ## 📈 Dashboard Preview
 ## 📈 Dashboard Preview
 
-![Dashboard Screenshot]()
+![Dashboard Screenshot](https://github.com/Henil1979/hotel-performance-powerbi-dashboard/blob/main/Screenshot%202026-04-22%20171034.png)
 
 
 
