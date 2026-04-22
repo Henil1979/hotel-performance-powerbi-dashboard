@@ -18,7 +18,7 @@ The goal of the project is to simulate a real-world Business Intelligence scenar
 
   ## 📈 Dashboard Preview
 
-![Dashboard Screenshot](
+![Dashboard Screenshot](Screenshot 2026-04-22 171034.png
 )
 
 ## 🔍 Key Insights
