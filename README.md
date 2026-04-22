@@ -1,4 +1,4 @@
-# hotel-performance-powerbi-dashboard
+# Hotel Performance Dashboard (Power BI)
 
 ## 📊 Project Overview
 This project analyses hotel booking data to evaluate business performance, focusing on revenue trends, customer behaviour, and cancellation patterns.
